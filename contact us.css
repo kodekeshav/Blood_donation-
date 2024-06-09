@@ -1,0 +1,246 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+  
+  body{
+    font-family: montserrat;
+  }
+  nav{
+    background: #cb4335;
+    height: 80px;
+    width: 100%;
+    margin-top: 1cm;
+  }
+ 
+    
+  
+  label.logo{
+    color: black;
+    font-size: 40px;
+    line-height: 80px;
+    padding: 0 100px;
+    margin-top: -1cm;
+    margin-left: -1cm;
+    margin-bottom: -1cm;
+    
+    
+  
+    font-weight: bold;
+  }
+  nav ul{
+    float: right;
+    margin-right: 20px;
+  }
+  nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+  }
+  nav ul li a{
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    
+   
+
+  }
+  nav li.love{
+    color: black;
+    height: 20px;
+    line-height: 80px;
+  }
+  a.active,a:hover{
+    background: black;
+    transition: .5s;
+  }
+  
+  a.logi,a:hover{
+    background-color: black;
+    transition: .5s;
+  }
+  div.main1 {
+    background-image: url('contact\ us.jpg');
+   width: 100%;
+   height: 650px;
+   background-repeat: no-repeat;
+   background-size: cover;
+ 
+    
+  }
+  .nnnn1
+  {
+    width:1200px;
+    
+    margin: auto;
+    color: black;
+    position: relative;
+    margin-top: -1.75cm;
+    margin-left: 5cm;
+  }
+  .nnnn1 .par11
+  {
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    
+  }
+  .nnnn1 .civ1{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+   padding-left: 20px;
+   margin-top: 9%;
+ 
+   letter-spacing: 2px;
+   
+
+ }
+ .nnnn1 .civ222{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+   padding-left: 20px;
+   
+ 
+   letter-spacing: 2px;
+   color: rgb(28, 30, 31);
+   margin-left:- 2cm;
+   
+
+ }
+ .nnnn span{
+   color: #cb4335;
+   
+ }
+ .big10{
+   
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    margin-top: 3cm;
+    background-size: cover;
+
+  }
+  .contain10{
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+
+  }
+  .card10{
+    
+    width: 250px;
+    
+    margin: 30px;
+    margin-top: 2cm;
+    border: 15px;
+    border-radius: 25pxs;
+  }
+  
+  
+  .card-image20{
+    
+    height: 250px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0; 
+    
+  }
+  .img-110
+{
+  background-image:url('emai;.jpeg')
+  
+}
+ .img-220
+ {
+   background-image: url('CALL.png')
+
+ } 
+ 
+ .card h2{
+   padding: 10px;
+ }
+ .card p{
+   padding: 10px;
+ }
+ .card10 a{
+   background-color: black;
+   color: white;
+   padding:15px 10px;
+   display:block;
+   text-align: center;
+   margin: 20px 50px;
+ }
+ div.dinu2{
+  background:#e09696;
+  height: 300px;
+  margin-top: 20px;
+  
+  
+
+}
+.di{
+  width: 80px;
+  margin-top: 10px;
+  margin-left: 25px;
+  
+   margin-bottom: 7px;
+   border-radius: 20px;
+}
+.din{
+  color: rgb(34, 28, 2);
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+  margin-left: 0.3cm;
+margin-top: -2cm;  
+}
+.form-control{
+padding-left: 2px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 60px;
+}
+.fotter{
+  background-color:#cb4335 ;
+  color: white;
+ 
+  font-size: 20px;
+ width: 100%;
+ 
+  height: 6cm;
+  margin-top: 9cm;
+  
+}
+.fotter ul{
+  display: inline-block;
+ margin-right: 3cm;
+
+}
+.fotter ul a{
+ color: #bfdced;
+ text-decoration: none;
+}
+.fotter img{
+  height: 2cm;
+
+}
+.fotter p{
+  opacity: 0.7;
+  font-size: 0.4cm;
+  word-spacing: 0.1cm;
+  margin-top: 1cm;
+  margin-left: 14cm;
+}
+.fff00{
+ color: black;
+}
+
+
+ 

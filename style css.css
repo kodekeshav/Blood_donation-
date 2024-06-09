@@ -1,0 +1,393 @@
+
+ *{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+  .email{
+    margin-top: 0.15cm;
+    text-decoration: solid;
+    font-size: 20px;
+    background: #e09696;
+    padding: 15px;
+  }
+  body{
+    font-family: montserrat;
+  }
+  nav{
+    background: #cb4335;
+    height: 80px;
+    width: 100%;
+    margin-top: -2cm;
+  }
+ 
+    
+  
+  label.logo{
+    color: black;
+    font-size: 40px;
+    line-height: 80px;
+    padding: 0 100px;
+    margin-top: -1cm;
+    margin-left: -1cm;
+    margin-bottom: -1cm;
+    
+    
+  
+    font-weight: bold;
+  }
+  nav ul{
+    float: right;
+    margin-right: 20px;
+  }
+  nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+  }
+  nav ul li a{
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    
+   
+
+  }
+  nav li.love{
+    color: black;
+    height: 20px;
+    line-height: 80px;
+  }
+  a.active,a:hover{
+    background: black;
+    transition: .5s;
+  }
+  
+  a.logi,a:hover{
+    background-color: black;
+    transition: .5s;
+  }
+   div.main {
+     background-image: url('BG33.webp');
+    width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+     
+   }
+   .nnnn
+   {
+     width:1200px;
+     
+     margin: auto;
+     color: black;
+     position: relative;
+     margin-top: -1.75cm;
+   }
+   .nnnn .par1
+   {
+     padding-left: 20px;
+     padding-bottom: 25px;
+     font-family: Arial;
+     letter-spacing: 1.2px;
+     line-height: 30px;
+     
+   }
+   .nnnn .civ{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+  
+    letter-spacing: 2px;
+    
+
+  }
+  .nnnn .civ22{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-left: 20px;
+    
+  
+    letter-spacing: 2px;
+    color: rgb(28, 30, 31);
+    margin-left:- 2cm;
+    
+
+  }
+  .nnnn span{
+    color: #cb4335;
+    
+  }
+ 
+  
+ 
+ .scff{
+  margin-left: 5cm;
+ top: 375px;
+  left: 575px;
+  
+}
+.srch{
+  font-family: 'Times New Roman', Times, serif;
+  width: 19cm;
+  height: 40px;
+  background-color: white;
+  border: 1px solid white;
+  margin-top: 13px;
+  color: aqua;
+  border-right: none;
+  font-size: 16px;
+  margin-left: -5cm;
+  margin-top: 1cm;
+  padding: 10px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  border-radius: 25px;
+}
+.scff placeholder{
+  margin-left: 5cm;
+}
+.btnnn1{
+  width: 100px;
+  height: 40px;
+  background: #cb4335;
+  border: 2px solid #cb4335;
+  margin-top: 13px;
+  color: #f8f4f4;
+  font-size: 15px;
+  border-top-right-radius: 5px;
+}
+div.home img{
+  width: 18cm;
+  margin-top: 1cm;
+  
+}
+
+    
+     
+      
+      /* Add styles to the form container */
+      .container {
+        margin: 20px;
+        margin-top: -12cm;
+        margin-left: 24cm;
+        max-width: 300px;
+        padding: 18px;
+        border-radius: 25px;
+      background-color: #e4735f;
+        
+        
+      }
+      
+      /* Full-width input fields */
+        option[type=State], input[type=City],input[type=Area],input[type=Group] {
+        width: 100%;
+        padding: 15px;
+        margin: 5px 0 22px 0;
+        
+        background:transparent  #f8f4f4;
+        border: 1px solid #e94e3a;
+        border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+      }
+      
+      input[type=State]:focus, input[type=City]:focus , input[type=Area]:focus,input[type=Group]:focus {
+        background-color: rgb(252, 249, 249);
+        outline: none;
+        border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+      }
+      .s22{
+        background-color: rgb(252, 249, 249);
+        outline: none;
+        border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  
+  background:transparent  #f8f4f4;
+  border: 1px solid #e94e3a;
+  border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+
+      }
+    
+      
+      
+      /* Set a style for the submit button */
+      .btn {
+        background-color: rgb(46, 38, 38);
+        color: white;
+        padding: 16px 20px;
+     border-radius: 25px;
+        cursor: pointer;
+        width: 100%;
+        opacity: 0.9;
+      }
+      
+      .btn:hover {
+        opacity: 1;
+      }
+      
+      
+      .reg
+      {
+        margin-top: 5cm;
+      }
+     
+      .big{
+        background-image: url('dinu1.webp');
+        background-repeat: no-repeat;
+        height: 700px;
+        width: 100%;
+        margin-top: 3cm;
+        background-size: cover;
+
+      }
+      .contain{
+        display: flex;
+        justify-content: center;
+        flex-wrap: nowrap;
+        border-radius: 25px;
+        margin-bottom: -5cm;
+
+      }
+      .card{
+        background: #bfdced;
+        width: 250px;
+        
+        margin: 30px;
+        margin-top: 2cm;
+        border: 15px;
+        border-radius: 25px;
+      }
+      .card-image{
+        
+        height: 250px;
+        margin-bottom: 15px;
+        background-size: cover;
+        border-radius: 15px 15px 0 0;
+      }
+      .img-1
+    {
+      background-image:url('main\ 1.png')
+    }
+     .img-2
+     {
+       background-image: url('main\ 2.png')
+
+     } 
+     .img-3
+     {
+       background-image: url('main\ 3.png')
+     }
+     .card h2{
+       padding: 10px;
+     }
+     .card p{
+       padding: 10px;
+     }
+     .card a{
+       background-color: black;
+       border-radius: 25px;
+       color: white;
+       padding:15px 10px;
+       display:block;
+       text-align: center;
+       margin: 20px 50px;
+     }
+     div.dinu2{
+      background:#e09696;
+      height: 300px;
+      margin-top: 20px;
+      
+      
+
+    }
+    .di{
+      width: 80px;
+      margin-top: 10px;
+      margin-left: 25px;
+      
+       margin-bottom: 7px;
+       border-radius: 20px;
+    }
+    .din{
+      color: rgb(34, 28, 2);
+      font-size: 35px;
+      line-height: 80px;
+      padding: 0 100px;
+      font-weight: bold;
+      margin-left: 0.3cm;
+    margin-top: -2cm;  
+    }
+    .form-control{
+    padding-left: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 60px;
+    }
+    h1.head{
+      width:1200px;
+     
+     margin: auto;
+     color: rgb(2, 36, 149);
+     position: relative;
+     margin-top: -1.75cm;
+     margin-left: 7cm;
+     font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-left: 20px;
+    
+  
+    letter-spacing: 2px;
+    
+
+    }
+    .lin{
+      width: 15cm;
+      transition: 0.5s;
+      color: black;
+      size: 1cm;
+    }
+    .fsss{
+      background-color:#cb4335 ;
+      color: white;
+     
+      font-size: 20px;
+     width: 100%;
+     
+      height: 6cm;
+      margin-top: -10cm;
+      
+   }
+   .fsss ul{
+      display: inline-block;
+     margin-right: 3cm;
+    
+   }
+   .fsss ul a{
+     color: #bfdced;
+     text-decoration: none;
+   }
+   .fsss img{
+      height: 2cm;
+   
+   }
+   .fsss p{
+      opacity: 0.7;
+      font-size: 0.4cm;
+      word-spacing: 0.1cm;
+      margin-top: 1cm;
+      margin-left: 14cm;
+   }
+    .fff00{
+     color: black;
+   }
+   
